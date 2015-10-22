@@ -10,6 +10,6 @@
 using namespace std;
 
 int main() {
-	cout << "!!!Hello World.8988version2!!!" << endl; // prints !!!Hello World.!!!
+	cout << "!!!Hello World.8988versionooo2!!!" << endl; // prints !!!Hello World.!!!
 	return 0;
 }
